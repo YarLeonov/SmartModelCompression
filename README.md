@@ -1,4 +1,4 @@
-# Antigravity Geomodel Compression Solution
+# Geomodel Compression Solution
 
 ## Approach
 Our solution uses a **hierarchical parsing** strategy to identify all model dependencies and applies **numerical quantization** to `.inc` and `.DATA` files to achieve high compression while maintaining **1e-5** relative error precision. 
