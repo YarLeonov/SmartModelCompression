@@ -1,0 +1,2 @@
+# No external requirements
+# Standard library: zlib, tarfile, pathlib, re, json, argparse
